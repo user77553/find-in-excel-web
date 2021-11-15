@@ -44,7 +44,7 @@ def finder(search_string_input):
             print(result)
 
         except:
-            print("Error")
+            print("File not found")
     else:
         print("Invalid filename, try again.")
 
